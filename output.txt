@@ -1,0 +1,9 @@
+se01
+0X5 
+bf2 bf4 bf10 
+one green 
+ce00
+ce13
+CF IF IOPL_0 NT 
+CF | IF | IOPL_1 | NT | VIF | 
+CFIFIOPL_1NTVIF

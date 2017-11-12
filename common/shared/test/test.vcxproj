@@ -65,11 +65,11 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\cht\source\libs\boost;E:\tmp;$(IncludePath)</IncludePath>
+    <IncludePath>E:\cht\source\libs\boost;E:\enum;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\cht\source\libs\boost;E:\tmp;$(IncludePath)</IncludePath>
+    <IncludePath>E:\cht\source\libs\boost;E:\enum;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

@@ -32,9 +32,6 @@
     <ClInclude Include="..\enum\enum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\enum\ext_enum.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\enum\io.h">
       <Filter>Header Files</Filter>
     </ClInclude>

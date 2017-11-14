@@ -112,7 +112,6 @@
     <ClInclude Include="..\enum\bitfield.h" />
     <ClInclude Include="..\enum\combo.h" />
     <ClInclude Include="..\enum\enum.h" />
-    <ClInclude Include="..\enum\ext_enum.h" />
     <ClInclude Include="..\enum\io.h" />
     <ClInclude Include="..\enum\macro.h" />
     <ClInclude Include="..\enum\manip.h" />
